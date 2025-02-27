@@ -34,7 +34,7 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with Next.js,
 
 ```
  git clone https://github.com/DevanshAg1151/CRUD-App-Contactwise.git
- cd Contactwise-CRUD-application
+ cd CRUD-App-Contactwise
 ```
 
 2. Install dependencies:
